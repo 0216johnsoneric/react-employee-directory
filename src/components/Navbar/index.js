@@ -3,10 +3,10 @@ import React from 'react';
 function Navbar () {
     return (
         <>
-            <nav className="jumbotron jumbotron-fluid bg-dark">
+            <nav className="jumbotron jumbotron-fluid bg-secondary">
                 <div className="container-fluid text-center">
-                    <a className="display-4" href="#">Employee Table</a>
-                    <p className="text-white">Here is your work team</p>
+                    <h2 className="display-4" href="#">Employee Table</h2>
+                    <p className="text-white">Here is your work team !</p>
                 </div>
             </nav>
         </>
